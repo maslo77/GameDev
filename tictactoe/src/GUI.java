@@ -12,6 +12,8 @@ public class GUI  extends JFrame {
     private JMenuItem wyjscie;
 
     public GUI() {
+        super();
+        panel = this.getContentPane();
                 }
         private void InitGUI(){}
         public void wygrany()
