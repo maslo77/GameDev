@@ -12,6 +12,7 @@ public class GUI  extends JFrame {
     private JMenuItem wyjscie;
 
     public GUI() {
+                }
         private void InitGUI(){}
         public void wygrany()
         {
